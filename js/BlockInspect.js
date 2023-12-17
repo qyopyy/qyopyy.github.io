@@ -1,0 +1,1 @@
+No Content: https://magox.xyz/js/BlockInspect.js
